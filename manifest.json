@@ -1,0 +1,10 @@
+{
+    "name": "Email AI Assistant",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "Extension to assist email writing",
+    "action": {
+        "default_icon": "icon.png",
+        "default_popup": "index.html"
+    }
+}
